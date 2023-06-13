@@ -68,7 +68,7 @@ Kuchipudi is a dance form from Andhra Pradesh. The costumes are elaborate, often
 
 ### The Waist Belt: Rhythm and Status
 
-![Crochet Waist Belt Image](crochet-waist-belt.jpg)
+![Crochet Waist Belt Image](https://i.ibb.co/z7jHg2F/IMG-3410.jpg)
 
 The waist belt, or "vaddanam," is an ornate belt worn by Kuchipudi dancers. It is not just a decorative piece, but also a symbol of status and identity. My crochet representation of the belt captures the rhythm and status symbolized by this piece.
 
