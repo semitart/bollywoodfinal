@@ -2,14 +2,16 @@ body {
   background-image: url('https://png.pngtree.com/png-clipart/20221030/original/pngtree-golden-thai-pattern-royal-luxury-background-design-png-image_8743653.png') !important;
   background-repeat: repeat !important;
   background-size: 50px 50px;
+  background-attachment: fixed; /* This makes the background span the whole body */
   color: #333; /* Change the text color to a dark gray */
-  font-family: Arial, sans-serif; /* Use a standard, easy-to-read font */
+  font-family: 'Roboto', sans-serif; /* Use a modern, easy-to-read font */
 }
 
 /* Add a semi-transparent white background to headers to make them stand out */
 h1, h2, h3, h4, h5, h6 {
   background-color: rgba(255, 255, 255, 0.7);
   padding: 10px;
+  font-family: 'Montserrat', sans-serif; /* Use a different font for headers to create a font pairing */
 }
 
 /* Add a semi-transparent white background to paragraphs to improve readability */
@@ -23,3 +25,4 @@ table {
   background-color: rgba(255, 255, 255, 0.7);
   padding: 10px;
 }
+
