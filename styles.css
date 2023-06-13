@@ -1,5 +1,25 @@
 body {
-  background-image: url('https://media.istockphoto.com/id/1433025644/vector/geometric-islamic-pattern.jpg?s=612x612&w=0&k=20&c=-8JFl0imz0OL_KXewEKKm6hfbFxEGOM2vlkqXuoJObs=') !important;
+  background-image: url('https://png.pngtree.com/png-clipart/20221030/original/pngtree-golden-thai-pattern-royal-luxury-background-design-png-image_8743653.png') !important;
   background-repeat: repeat !important;
-  background-size: 50px 50px; /* Adjust this value to change the size of each tile */
+  background-size: 50px 50px;
+  color: #333; /* Change the text color to a dark gray */
+  font-family: Arial, sans-serif; /* Use a standard, easy-to-read font */
+}
+
+/* Add a semi-transparent white background to headers to make them stand out */
+h1, h2, h3, h4, h5, h6 {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+}
+
+/* Add a semi-transparent white background to paragraphs to improve readability */
+p {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+}
+
+/* Add a semi-transparent white background to tables to improve readability */
+table {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
 }
