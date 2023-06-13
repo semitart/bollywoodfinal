@@ -2,27 +2,65 @@ body {
   background-image: url('https://png.pngtree.com/png-clipart/20221030/original/pngtree-golden-thai-pattern-royal-luxury-background-design-png-image_8743653.png') !important;
   background-repeat: repeat !important;
   background-size: 50px 50px;
-  background-attachment: fixed; /* This makes the background span the whole body */
-  color: #333; /* Change the text color to a dark gray */
-  font-family: 'Roboto', sans-serif; /* Use a modern, easy-to-read font */
+  background-attachment: fixed;
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensures padding and border are included in element's total width and height */
 }
 
-/* Add a semi-transparent white background to headers to make them stand out */
+.container {
+  max-width: 1200px; /* Limit the width of the content */
+  margin: 0 auto; /* Center the content */
+  padding: 20px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   background-color: rgba(255, 255, 255, 0.7);
   padding: 10px;
-  font-family: 'Montserrat', sans-serif; /* Use a different font for headers to create a font pairing */
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 0; /* Remove the default top margin */
 }
 
-/* Add a semi-transparent white background to paragraphs to improve readability */
 p {
   background-color: rgba(255, 255, 255, 0.7);
   padding: 10px;
+  margin-bottom: 20px;
 }
 
-/* Add a semi-transparent white background to tables to improve readability */
 table {
   background-color: rgba(255, 255, 255, 0.7);
   padding: 10px;
+  border-collapse: collapse;
+  width: 100%; /* Make the table take up the full width of its container */
 }
 
+td, th {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+/* Add a box shadow to images to make them stand out */
+img {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* Add a stronger box shadow on hover */
+img:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
