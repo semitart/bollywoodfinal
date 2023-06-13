@@ -3,6 +3,7 @@
 </head>
 
 <body>
+  
 # A Journey Through Indian Dance Costumes
 
 Welcome to the creative aspect of Kayden and Kayla's final Bollywood dance project! Here we sharing our journey of creating crochet representations of traditional Indian dance costume pieces, which are crucial to the entertainment Industry in India. 
