@@ -2,6 +2,7 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
+<body>
 # A Journey Through Indian Dance Costumes
 
 Welcome to the creative aspect of Kayden and Kayla's final Bollywood dance project! Here we sharing our journey of creating crochet representations of traditional Indian dance costume pieces, which are crucial to the entertainment Industry in India. 
@@ -81,3 +82,5 @@ The waist belt, or "vaddanam," is an ornate belt worn by Kuchipudi dancers. It i
 ## About Us
 
 We are Kayden and Kayla, students of Indian dance and culture, and avid crochet enthusiasts. This project is a combination of our passions. We hope you enjoy exploring it as much as we enjoyed creating it! Through this project, we aim to bring a fresh perspective to the traditional Indian dance costumes and hope to inspire others to explore this beautiful aspect of Indian culture. Our journey into the world of Indian dance and the creation of these crochet pieces has been a labor of love, and we are excited to share it with you.
+  
+ </body>
